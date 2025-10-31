@@ -1,0 +1,1 @@
+# Script-actualizar-a-Win11-con-omisiones
